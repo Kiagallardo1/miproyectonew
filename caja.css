@@ -1,0 +1,28 @@
+body{
+    background: #5D3A3A;
+  }
+  div{
+    width:300px;
+    height:200px;
+    background:#5D3A3A;
+  padding:20px;
+  margin:10px;
+  border:px solid black;
+  position:absolute;
+  top:200px;
+  left:w00px; 
+  border-radius:00%;
+  }
+  
+  .kia{
+    width:80px;
+    height:70px;
+    background:#B5E0BA;
+  padding:5px;
+  margin:10px;
+  border:px solid black;
+  position:absolute;
+  top:200px;
+  left:w00px; 
+  border-radius:00%;
+}
